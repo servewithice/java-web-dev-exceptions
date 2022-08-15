@@ -25,7 +25,7 @@ public class Main {
 
     public static int CheckFileExtension(String fileName)
     {
-        // Write code here!
+        return 0;
     }
 
 }
